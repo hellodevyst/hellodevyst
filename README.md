@@ -1,41 +1,60 @@
 <div align="center">
 
-<img src="https://www.devyst.com/logo-full.svg" alt="Devyst" width="200" />
-
-<br />
-
-**A technology studio building AI products, custom software, and automation**
-**that helps your business grow globally.**
-
-[![Website](https://img.shields.io/badge/devyst.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://devyst.com)
-[![Twitter](https://img.shields.io/badge/@devyst-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/devyst)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/devyst)
-[![Email](https://img.shields.io/badge/hello@devyst.com-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@devyst.com)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=180&section=header&text=Devyst&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Web%20Studio&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
 
 </div>
 
 ---
 
-## What We Build
+<div align="center">
 
-Eight ways we help businesses grow — from first idea to finished product.
+### Hi, I'm **Daniyal Rehman** — Founder & CEO of [Devyst](https://devyst.com) 👋
 
-| Service | What it means for you |
-|---|---|
-| 🤖 **Agentic AI Systems** | Smart software that handles whole tasks, start to finish |
-| 💬 **AI Chatbots** | Answer customer questions day and night, in your brand voice |
-| 🚀 **Custom SaaS** | Your product idea turned into software people pay to use |
-| ⚡ **Workflow Automation** | Repetitive work done automatically, so your team gets hours back |
-| 🌐 **Full-Stack Development** | Fast, dependable websites and apps your customers enjoy using |
-| 🔗 **AI Integrations** | AI added to the tools you already use, with nothing to replace |
-| 📱 **Social Media Marketing** | Content that grows your audience and brings in new customers |
-| 🎬 **Video Production** | Polished video that makes people stop scrolling and pay attention |
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&lines=Building+AI+that+ships+to+production;Founder+of+devyst.com;Designing+software+from+scratch;Turning+ideas+into+revenue)](https://devyst.com)
+
+</div>
 
 ---
 
-## Our Tech Stack
+## Who I Am
 
-Tools we know inside out — chosen because they work, not because they're trendy.
+I'm **Daniyal Rehman**, the founder and CEO of **Devyst** — a technology studio I built to solve a problem I kept seeing: businesses paying agencies for AI bolt-ons that don't actually work in production.
+
+At Devyst, we design **AI products, custom software, and automation** from scratch — around what your business actually needs, not what's trending on LinkedIn. We've shipped 40+ projects, from agentic AI systems to full SaaS platforms, for clients worldwide.
+
+We don't do big reveals. We don't do bloated retainers. We ship working software every week and stop when your business is growing.
+
+> *"Most agencies fit AI into old workflows and call it innovation. We design from scratch."*
+
+---
+
+## What We Build at Devyst
+
+<div align="center">
+
+| 🤖 Agentic AI Systems | 💬 AI Chatbots | 🚀 Custom SaaS |
+|:---:|:---:|:---:|
+| Smart software that handles whole tasks, start to finish | Answer customer questions 24/7, in your brand voice | Your product idea turned into software people pay for |
+| **⚡ Workflow Automation** | **🌐 Full-Stack Dev** | **🔗 AI Integrations** |
+| Repetitive work done automatically — hours back per day | Fast, reliable websites and apps your customers enjoy | AI added to the tools you already use, nothing to replace |
+
+</div>
+
+---
+
+## Stats
+
+<div align="center">
+
+![40+ Projects](https://img.shields.io/badge/40%2B_Projects-Shipped-7F77DD?style=for-the-badge&labelColor=EEEDFE)
+![15+ Countries](https://img.shields.io/badge/15%2B_Countries-Reached-1D9E75?style=for-the-badge&labelColor=E1F5EE)
+![4–6 Week MVPs](https://img.shields.io/badge/4–6_Week-MVPs-D85A30?style=for-the-badge&labelColor=FAECE7)
+
+</div>
+
+---
+
+## Tech Stack
 
 **Frontend**
 
@@ -58,23 +77,23 @@ Tools we know inside out — chosen because they work, not because they're trend
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=flat-square&logo=make&logoColor=white)
+![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=flat-square&logoColor=white)
 
 ---
 
 ## Selected Work
 
-A few of the products we've designed, built, and shipped.
+> A few of the products we've designed, built, and shipped.
 
-**🧠 AuraMind Research Agent** — A team of AI agents that takes one research question and returns a sourced, ready-to-review report in minutes. `Next.js` `OpenAI` `NestJS`
+**`01`** 🧠 **[AuraMind Research Agent](https://devyst.com/projects/auramind-research-agent)** — A team of AI agents that takes one research question and returns a sourced, ready-to-review report in minutes. `Next.js` `OpenAI` `NestJS` ![Live](https://img.shields.io/badge/-live-1D9E75?style=flat-square)
 
-**📋 Clarix SaaS Platform** — A compliance tool that only worked for one company, rebuilt into a product enterprises now pay for. `Next.js` `NestJS` `PostgreSQL`
+**`02`** 📋 **[Clarix SaaS Platform](https://devyst.com/projects/clarix-saas-platform)** — A compliance tool that only worked for one company, rebuilt into a product enterprises now pay for. `Next.js` `NestJS` `PostgreSQL` ![Live](https://img.shields.io/badge/-live-1D9E75?style=flat-square)
 
-**⚙️ FlowDesk Operations Automation** — Six disconnected tools, finally connected. Hours of daily copy-and-paste work, gone. `n8n` `TypeScript` `PostgreSQL`
+**`03`** ⚙️ **[FlowDesk Operations Automation](https://devyst.com/projects/flowdesk-automation)** — Six disconnected tools, finally connected. Hours of daily copy-and-paste work, gone. `n8n` `TypeScript` `PostgreSQL`
 
-**🤝 NexBridge Support Intelligence** — A support chatbot that answers routine questions on its own and hands the hard ones to a human, fully briefed. `Next.js` `OpenAI` `NestJS`
+**`04`** 🤝 **[NexBridge Support Intelligence](https://devyst.com/projects/nexbridge-chatbot)** — A support chatbot that answers the routine questions on its own and hands the hard ones to a human, fully briefed. `OpenAI` `NestJS` ![Live](https://img.shields.io/badge/-live-1D9E75?style=flat-square)
 
-→ [See all projects](https://devyst.com/projects)
+→ **[View all projects at devyst.com/projects](https://devyst.com/projects)**
 
 ---
 
@@ -84,44 +103,43 @@ A few of the products we've designed, built, and shipped.
 Discovery → Architecture → Development → Intelligence → Launch & Scale
 ```
 
-1. **Discovery** — We learn your business, your customers, and the real problem you need solved.
-2. **Architecture** — Before any code is written, we map out the whole system.
-3. **Development** — You see working software every week, not just status updates.
-4. **Intelligence** — AI and automation get woven in at the right points.
-5. **Launch & Scale** — We ship, monitor, and hand over a system your team can run.
-
----
-
-## Why Devyst
-
-> Most agencies fit AI into old workflows and call it innovation. We design from scratch around what your business actually needs — and we don't stop until it runs in production.
-
-- ◆ **AI built into the foundation** — Not an add-on. Designed in from day one.
-- ◆ **Business outcomes, not billable hours** — We make decisions based on what grows your business.
-- ◆ **Weekly demos, zero surprises** — You see working software every Friday.
-- ◆ **Built for your business, not from a template** — Every project starts from scratch.
-- ◆ **4 to 6 week MVPs, built to last** — Fast delivery and long-term reliability aren't opposites.
+1. **Discovery** — We learn your business, your customers, and the real problem you need solved. No assumptions.
+2. **Architecture** — We map out the whole system before writing a line of code. Good decisions here save weeks.
+3. **Development** — You see working software every week. Weekly demos, you stay in control throughout.
+4. **Intelligence** — AI and automation woven in at the right points so your product works harder.
+5. **Launch & Scale** — We ship, monitor, and hand over a system your team can run. Built to scale with you.
 
 ---
 
 ## From the Blog
 
-- 📄 [Building Agentic AI Systems for Production](https://devyst.com/blog/building-agentic-ai-systems-production) — Architecture decisions that matter
-- 📄 [Multi-Tenant SaaS with Next.js and NestJS](https://devyst.com/blog/multitenant-saas-nextjs-nestjs) — Isolation strategies and concrete patterns
-- 📄 [RAG vs Fine-Tuning](https://devyst.com/blog/rag-vs-finetuning) — Choosing the right approach for business AI
+- 📄 **[Building Agentic AI Systems for Production](https://devyst.com/blog/building-agentic-ai-systems-production)** — Architecture decisions that determine whether an agent can be trusted with real workflows
+- 📄 **[Multi-Tenant SaaS with Next.js and NestJS](https://devyst.com/blog/multitenant-saas-nextjs-nestjs)** — Isolation strategies and concrete patterns for production SaaS
+- 📄 **[RAG vs Fine-Tuning](https://devyst.com/blog/rag-vs-finetuning)** — A concrete framework for choosing between them, and what each actually costs
+
+---
+
+## Let's Talk
+
+<div align="center">
+
+I'm always up for a conversation — whether it's a project, a collaboration, or just talking tech. The best ideas usually start with a simple message.
+
+[![Website](https://img.shields.io/badge/devyst.com-Start_a_project-7F77DD?style=for-the-badge&logo=vercel&logoColor=white)](https://devyst.com/contact)
+[![Twitter](https://img.shields.io/badge/@devyst-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/devyst)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/devyst)
+[![Email](https://img.shields.io/badge/hello@devyst.com-Email_us-D85A30?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@devyst.com)
+
+*Free 30-minute discovery call. We reply within one business day.*
+
+</div>
 
 ---
 
 <div align="center">
 
-**Ready to grow your business?**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=120&section=footer&animation=fadeIn" width="100%" />
 
-[**Start your project →**](https://devyst.com/contact) &nbsp;|&nbsp; [**hello@devyst.com**](mailto:hello@devyst.com)
-
-*Free 30-minute discovery call. We reply within one business day.*
-
-<br />
-
-© 2026 Devyst. All rights reserved.
+*© 2026 Devyst — Built to grow your business*
 
 </div>
