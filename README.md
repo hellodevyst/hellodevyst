@@ -24,7 +24,7 @@ Being a full-stack engineer shapes how I run things. I care about architecture b
 - AI is a tool, not a strategy
 - The best teams ship working software early and improve it honestly
 - Simplicity is harder than complexity and worth the effort
-- A good system runs without you — that's the goal
+- A good system runs without you, that's the goal
 
 <br />
 
